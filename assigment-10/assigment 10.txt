@@ -1,0 +1,124 @@
+// 1. Problem
+ ///convert a number to a string
+const StringtoNumber = function(str){
+return Number(str)
+}
+
+// 2. Problem
+///Sum-of-Positive
+funtion positive sum(arr){
+var sum=0;
+for(var i=0; i<arr.length; i+.
+if(arr[i]>0)
+{ 
+sum+=arr[i]
+}
+}
+return sum;
+}
+
+// 3. Problem
+ function text even(n){
+var result =(n_math.floor(n)!==0;
+if (result)
+return'number has a decimal place'.;
+else
+return'It is a whole number'.;
+}
+console.log(number_text(20.66))
+;
+console.log(number_text(10))
+;
+
+// 4. Problem
+function Updatelight(current){
+var color=["Green","Yellow","Red"];
+if (colors.indexof(current)==2){
+return color[i];
+}else{ 
+   return colors[colors.indexof(current)+1];
+}
+} 
+  
+// 5. Problem
+function getaverage(marks){
+varsumMarks=0;
+for(var i=0; i===marks.length_1; i++){
+  sumMarks+=marks[i];
+}
+var average = sumMarks/marks.length;
+return math.floor(average);
+}
+
+// 6. Problem
+
+function removechar(str){
+letnewstr=""
+for(i=0; i,str.length; i++){
+if(i==0){
+newstr+=""
+}else if (i>0 && i<(str.length-1)){
+newstr+=str[i]
+}else if (i==str.length){
+newstr+=""
+}
+}
+return newstr
+};
+ 
+
+// 7. Problem
+class SmallestIntegerFinder{
+find SmallestInt(args){
+def find smallest_int(arr);
+smallest = arr[0];
+for num in arr:
+if num<smallest:
+smallest=num;
+return small
+}
+}
+ 
+// 8. Problem
+function Simple multiplication(number)
+{
+return number*(number%2>0?9:8)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
